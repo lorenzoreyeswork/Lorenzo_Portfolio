@@ -8,7 +8,7 @@ In order to have a niche in healthcare analytics, I decided to use datasets that
 In this dataset, I managed to determine the trends of countries prevalent to malnutrition among children under 5 years old.
 
 Procedure:
-1. Data was obtained through Kaggle. [World Hunger DataSet]([https://www.example.com](https://www.kaggle.com/datasets/whenamancodes/the-global-hunger-index)
+1. Data was obtained through Kaggle. [World Hunger DataSet](https://www.kaggle.com/datasets/whenamancodes/the-global-hunger-index)
 2. .csv Files was first skimmed, and opened in Power BI.
 3. Each CSV files were transformed then loaded individually.
 4. Each files were checked for errors, duplicates, and observed for similarities in columns which would be essential for data validation
